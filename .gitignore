@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+
+# TypeScript compiled output
+dist/
+build/
+
+# Environment configuration files
+.env
+
+# Editor directories and files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.idea/
+*.iml
+*.swp
+*.swo
+*.tmp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
