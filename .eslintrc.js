@@ -22,5 +22,6 @@ module.exports = {
     },
     rules: {
         '@typescript-eslint/semi': ['error', 'always'], // or 'never' if you prefer no semicolons
+        '@typescript-eslint/space-before-function-paren': ['error', 'never']
     },
 };
